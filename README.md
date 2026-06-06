@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- BANNER: Upload your Canva banner to GitHub repo and replace the URL below -->
-<!-- Recommended size: 1500x500px, save as banner.png in the repo root -->
-![Banner](./banner.png)
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kowit+Wattana;Full+Stack+Developer;AI+%26+Automation+Builder;Enterprise+Systems+Expert)](https://git.io/typing-svg)
 
 <br/>
